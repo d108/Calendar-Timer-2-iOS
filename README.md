@@ -13,8 +13,8 @@ The first in a new series of development targeted for iOS 8 and 9.
 * Task blocks now advance throughout the day and are updated when the app is opened.
 * Saved Task Sessions are available as an in-app purchase.
 * Goals are saved for each individual session.
-* If the app quits for any reason, time sessions will be restored right where they left off. And if the session was already completed, the completed session will be waiting for you.
-  - Currently, this feature only works after a single app quitting incidident.
+* If the app quits for any reason, timed sessions will be restored right where they left off. And if the session was already completed, the completed session will be waiting for you.
+  - Currently, this feature only works after a single app quitting incident.
   
 * Timer display changed to Helvetica Neue font.
 * Saved session selection, impromptu task creation, saved task creation all have new sounds.
@@ -22,4 +22,4 @@ The first in a new series of development targeted for iOS 8 and 9.
 * Calendars are grouped according to whether they are used in an active session.
   - The birthday and holiday calendar and other read-only calendars are no longer visible.
   
-* Internal improvements.
+* Internal improvements too numerous to list.
