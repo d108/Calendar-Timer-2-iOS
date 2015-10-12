@@ -2,6 +2,12 @@
 
 # Calendar Timer 2 Release Notes
 
+##v2.0.2.1283
+
+* Fixed display of app name on the home screen.
+* Added fix for sounds sometimes not playing.
+* Removed extra message when sessions complete in the background.
+
 ##v2.0.0.1264
 
 The first in a new series of development targeted for iOS 8 and 9.
@@ -23,3 +29,4 @@ The first in a new series of development targeted for iOS 8 and 9.
   - The birthday and holiday calendar and other read-only calendars are no longer visible.
   
 * Internal improvements too numerous to list.
+
