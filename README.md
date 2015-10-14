@@ -2,12 +2,12 @@
 
 # Calendar Timer 2 Release Notes
 
-##v2.0.4
+##v2.0.4 (Not Released Yet)
 
 * Fixed an errant button appearing on dismissal of the add session screen.
 * Changed calendar event URL to `calendartimer2`.
 
-##v2.0.2.1283
+##v2.0.2.1283 (Waiting For Review)
 
 * Fixed display of app name on the home screen.
 * Added fix for sounds sometimes not playing.
