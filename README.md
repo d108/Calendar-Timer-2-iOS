@@ -2,11 +2,12 @@
 
 # Calendar Timer 2 Release Notes
 
-##v2.0.2.1287 (Waiting For Review)
+##v2.0.2.1290
 
 * Fixed an errant button appearing on dismissal of the add session screen.
 * Changed calendar event URL to `calendartimer2`.
 * Fixed display of app name on the home screen.
+  - This may require additional adjustment as it may be a bug in iOS 9 affecting my configuration.
 * Added fix for sounds sometimes not playing.
 * Removed extra message when sessions complete in the background.
 
@@ -32,3 +33,5 @@ The first in a new series of development targeted for iOS 8 and 9.
   - The birthday and holiday calendar and other read-only calendars are no longer visible.
   
 * Internal improvements too numerous to list.
+
+
