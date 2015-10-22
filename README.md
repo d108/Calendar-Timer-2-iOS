@@ -7,7 +7,6 @@
 * Fixed an errant button appearing on dismissal of the add session screen.
 * Changed calendar event URL to `calendartimer2`.
 * Fixed display of app name on the home screen.
-  - This may require additional adjustment as it may be a bug in iOS 9 affecting my configuration.
 * Added fix for sounds sometimes not playing.
 * Removed extra message when sessions complete in the background.
 
