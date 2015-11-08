@@ -2,6 +2,11 @@
 
 # Calendar Timer 2 Release Notes
 
+##2.0.4.1299
+
+* Improved time keeping.
+* Updated many libraries.
+
 ##v2.0.2.1290
 
 * Fixed an errant button appearing on dismissal of the add session screen.
